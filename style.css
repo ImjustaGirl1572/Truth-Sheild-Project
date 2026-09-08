@@ -1,0 +1,27 @@
+
+.page-body {
+margin: 0;
+font-family: Arial, sans-serif;
+background-color: white;
+color: seagreen;
+text-align: center;
+}
+
+.btn-primary, .btn-outline {
+padding: 12px 24px;
+border-radius: 30px ;
+font-weight: bold;
+cursor: pointer;
+border: none;
+}
+
+ .btn-primary {
+    background-color: lightgreen;
+    color: white;
+    border: 2px solid black;
+ }
+
+ .navbar {
+    display: flex;
+ }
+
